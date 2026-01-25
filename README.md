@@ -293,51 +293,9 @@ Proxy only calls Alpha Vantage when cache expires
 * Clear separation of concerns
 * Production-grade data flow
 
----
-
-## 🏁 Conclusion
-
-Groww Shark is a **production-ready finance dashboard** demonstrating:
-* Real API integration
-* Advanced state management
-* Clean architecture
-* Scalable frontend design
-* Professional charting solutions
-
----
-
-## 🔮 Future Scope & Enhancements
-
-The current implementation lays a strong foundation, and the platform can be extended further with the following enhancements:
-
-* 🧲 **Drag & Drop Widgets**
-  * Allow users to freely rearrange widgets on the dashboard using drag-and-drop.
-  * Save widget layout preferences per user.
-  * Improves personalization and dashboard flexibility.
-
-* 🏷️ **Company Logos & Branding**
-  * Display official company logos alongside stock names and symbols.
-  * Fetch logos dynamically using symbol-based logo APIs.
-  * Enhances visual clarity and brand recognition.
-
-* ⏱️ **Real-Time Streaming Updates**
-  * Integrate WebSockets or Server-Sent Events (SSE) for live price updates.
-  * Reduce polling-based API calls.
-  * Enables near real-time market movement tracking.
-
-* 📐 **Resizable Widgets**
-  * Allow users to resize widgets (small / medium / large).
-  * Better support for different data views like tables vs charts.
 
 
-* 📱 **Mobile-First Enhancements**
-  * Optimize chart interactions for touch gestures.
-  * Improve widget layout responsiveness on smaller screens.
 
-
----
-
-
-## 🙌 Author
+## By
 Sahil Gufran
 
