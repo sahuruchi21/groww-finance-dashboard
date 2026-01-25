@@ -274,24 +274,6 @@ TIME_SERIES_DAILY
 ↓
 Lightweight Charts
 ```
-* For Candle Stick Graph /api/proxy/history/alpha?symbol=AAPL&interval=1D
-
-
-✅ hits Alpha Vantage  
-❌ But subsequent calls may be served from **server cache**
-
-Browser always calls `/api/proxy`  
-Proxy only calls Alpha Vantage when cache expires
-
----
-
-## 🧠 Why This Architecture Works
-
-* Prevents API rate-limit issues
-* Zero redundant network calls
-* Scales well for large watchlists
-* Clear separation of concerns
-* Production-grade data flow
 
 
 
