@@ -1,15 +1,10 @@
-# Groww Shark 🦈  
+# Groww Finance dashboard 🦈  
 A Modern Finance Dashboard builder
 
 Groww Finance dashboard is a full-featured finance dashboard builder built with **Next.js (App Router)**, **Redux Toolkit**, and **modern charting libraries**.  
 It supports **real-time market data**, **watchlists**, **widgets**, **advanced search**, and **interactive charts (line & candlestick)** using real APIs no hard-coded data.
 
 ---
-
-https://github.com/user-attachments/assets/d015b915-8c26-4eef-ba18-a9384c441e06
-
-
-https://github.com/user-attachments/assets/f2b9ea9f-bcf5-4291-85ed-004e2a6968b4
 
 <img width="1916" height="971" alt="Screenshot 2025-12-25 231346" src="https://github.com/user-attachments/assets/673030b1-cbe0-4554-a108-847e70a51b16" />
 
