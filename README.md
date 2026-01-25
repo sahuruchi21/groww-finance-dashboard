@@ -339,4 +339,5 @@ The current implementation lays a strong foundation, and the platform can be ext
 
 
 ## 🙌 Author
-Built with ❤️ by **Alisha Mahmood**
+Sahil Gufran
+
