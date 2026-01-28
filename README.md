@@ -279,5 +279,5 @@ Lightweight Charts
 
 
 ## By
-Sahil Gufran
+Ruchi Sahu
 
